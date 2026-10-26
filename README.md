@@ -1,6 +1,6 @@
 # IELetter
 
-Font that imitates the Electroluminescent Display that ware made only for military use during the Soviet era in the 1980s.
+Font that imitates the Electroluminescent Display that were made only for military use during the Soviet era in the 1980s.
 
 <img src="ieletter.png" width="400" />
 
